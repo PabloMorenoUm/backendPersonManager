@@ -12,7 +12,7 @@ public class PersonPersistenceImpl implements PersonPersistence {
     }
 
     @Override
-    public List<Person> findAll(List<Person> people) {
+    public List<Person> findAll() {
         return null;
     }
 }

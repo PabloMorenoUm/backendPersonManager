@@ -6,5 +6,5 @@ public interface PersonPersistence {
 
     Person save(Person person);
 
-    List<Person> findAll(List<Person> people);
+    List<Person> findAll();
 }
